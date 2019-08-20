@@ -1,0 +1,1 @@
+insert into `funcionario` (`id`,`nome`, `sobrenome`, `email`, `nis`) VALUES (null,'nick', 'james', 'james@hotmail.com', 15478);
